@@ -1,4 +1,3 @@
-
 pvalue = function(x){
   n = 26
   c = 55
